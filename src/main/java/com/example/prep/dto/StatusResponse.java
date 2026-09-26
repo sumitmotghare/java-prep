@@ -1,4 +1,4 @@
-package main.java.com.example.prep.dto;
+package com.example.prep.dto;
 
 import lombok.Builder;
 import lombok.Data;

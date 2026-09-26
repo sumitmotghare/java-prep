@@ -1,4 +1,4 @@
-package main.java.com.example.prep.config;
+package com.example.prep.config;
 
 public class AppConfig {
     

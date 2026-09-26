@@ -1,6 +1,6 @@
-package main.java.com.example.prep.controller;
+package com.example.prep.controller;
 
-import main.java.com.example.prep.dto.StatusResponse;
+import com.example.prep.dto.StatusResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
